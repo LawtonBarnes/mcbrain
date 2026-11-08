@@ -1,5 +1,7 @@
 # McBrain
 
+> **Overview of the whole fleet.** Every app except AIR METAL, IDENTIFY, STRINGS and SCRUTE also runs standalone on a single Pi; see each app's README.
+
 A 6-Raspberry-Pi fleet driving 6 CRTs with retro-styled kiosk apps (test
 patterns, an audio spectrum visualizer, a sports/news ticker, a weather
 station, an MP3 player, and an ADS-B flight radar), centrally monitored
